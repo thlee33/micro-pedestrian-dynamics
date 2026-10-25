@@ -1,5 +1,3 @@
-# Microspace Lab
-
 **사람의 이동과 혼잡을 살펴보는 소규모 공간 3D 실험실**  
 A browser-based 3D laboratory for pedestrian flow and small-space design.
 
