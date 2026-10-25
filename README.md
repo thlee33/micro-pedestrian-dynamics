@@ -11,11 +11,11 @@ HTML·CSS·JavaScript로 구성된 정적 웹 앱입니다. 계산과 3D 표시�
 
 | 실험 | 데모 URL | 주요 기능 |
 | --- | --- | --- |
-| 전체 안내 | [https://YOUR_USERNAME.github.io/microspace-lab](https://thlee33.github.io/micro-pedestrian-dynamics/ )/ | 네 가지 실험 소개 |
-| 보행 인파 | [https://YOUR_USERNAME.github.io/microspace-lab/crowd/ ](https://thlee33.github.io/micro-pedestrian-dynamics/crowd/)| 유입량·통행 규칙·장애물에 따른 이동과 혼잡 |
-| 시내버스 | [https://YOUR_USERNAME.github.io/microspace-lab/bus/ ](https://thlee33.github.io/micro-pedestrian-dynamics/bus/) | 앞쪽 체류·실내 분산·반복 승하차·현재 탑승 인원 |
-| 엘리베이터 | [https://YOUR_USERNAME.github.io/microspace-lab/elevator/](https://thlee33.github.io/micro-pedestrian-dynamics/elevator/) | 진입 방향·목적층별 자리 안내·임시 하차와 재탑승 |
-| 계단 배치 | [https://YOUR_USERNAME.github.io/microspace-lab/stairs/](https://thlee33.github.io/micro-pedestrian-dynamics/stairs/) | 공간 치수별 U자·회전계단, 1~5명 상·하행 |
+| 전체 안내 | [https://thlee33.github.io/micro-pedestrian-dynamics/](https://thlee33.github.io/micro-pedestrian-dynamics/ )/ | 네 가지 실험 소개 |
+| 보행 인파 | [https://thlee33.github.io/micro-pedestrian-dynamics/crowd/](https://thlee33.github.io/micro-pedestrian-dynamics/crowd/)| 유입량·통행 규칙·장애물에 따른 이동과 혼잡 |
+| 시내버스 | [https://thlee33.github.io/micro-pedestrian-dynamics/bus/](https://thlee33.github.io/micro-pedestrian-dynamics/bus/) | 앞쪽 체류·실내 분산·반복 승하차·현재 탑승 인원 |
+| 엘리베이터 | [https://thlee33.github.io/micro-pedestrian-dynamics/elevator/](https://thlee33.github.io/micro-pedestrian-dynamics/elevator/) | 진입 방향·목적층별 자리 안내·임시 하차와 재탑승 |
+| 계단 배치 | [https://thlee33.github.io/micro-pedestrian-dynamics/stairs/](https://thlee33.github.io/micro-pedestrian-dynamics/stairs/) | 공간 치수별 U자·회전계단, 1~5명 상·하행 |
 
 
 ## 보행 인파 미리보기
